@@ -37,7 +37,7 @@ Folder Lists:
 -economy/solcial/environmental: lists provided by the outhors of the article "Sustainability and Corporate Social Responsibility in the Text of Annual Reports—The Case of the IT Services Industry"
 -LM_MasterDictionary : Loughran-McDonald list 
 
-code1.ipynb: 
+Sentiment_vader_polarity.ipynb: 
 -complete collection of data and analysis for Vader and polarity approaches
 -complete analysis for Bert approach
 
