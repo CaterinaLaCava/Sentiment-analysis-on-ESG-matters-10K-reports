@@ -1,7 +1,7 @@
 Report.pdf: 
 -detailed report of what we did in our project.
 
-Folder ResultPolarity: 
+Folder ResultsPolarity: 
 -sentiment_evolution19_22: excel file with the evolution of the ESG-related average compound score using polarity approach.
 -sentiment_evolution2022: excel file with the ESG-related average compound score of 2022 using polarity approach.
 -evolution_bank/car/energy/food: plot of the evolution of companies' average compound score industry by industry 
@@ -9,7 +9,7 @@ Folder ResultPolarity:
 -change_per_company: percentage change from 2019 to 2022 of companies' average compound score
 -change_per_industry: table with the average change within every industry of the percentage change from 2019 to 2022 of companies' average compound score
 
-Folder ResultVADER: 
+Folder ResultsVADER: 
 -sentiment_evolution19_22: excel file with the evolution of the ESG-related average compound score using VADER approach.
 -sentiment_evolution2022: excel file with the ESG-related average compound score of 2022 using VADER approach.
 -evolution_bank/car/energy/food: plot of the evolution of companies' average compound score industry by industry 
