@@ -41,8 +41,8 @@ Sentiment_vader_polarity.ipynb:
 -complete collection of data and analysis for Vader and polarity approaches
 -complete analysis for Bert approach
 
-Folder To_run_code1: 
--everything you need to run code1.ipynb
+Folder To_run_Sentiment_vader_polarity: 
+-everything you need to run Sentiment_vader_polarity.ipynb
 
 Sentiment_ecological_Bert.ipynb: 
 -to replicate our 3rd approach (Bert to recognise Ecological sentiment) you need this code plus the file ecological_bert (support code);it is possible to change the document in which the analysis is run in ecological_bert/src/predict_historical_10K. Results are in RESULTS folder.
@@ -59,6 +59,6 @@ Folder Data_analysis_summary_code:
 
 Folder Regression:
 -folder 1: code for regression and data necessary to run the code
--folder 2: second code for regression (necessary data to run this code are all in Folder To_run_code1)
+-folder 2: second code for regression (necessary data to run this code are all in Folder To_run_Sentiment_vader_polarity)
 - Msci scores: necessary to run the two above codes for regressions
 
