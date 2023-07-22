@@ -1,0 +1,430 @@
+,sentence,label,score
+15,   indicate by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial reporting under section  b  of the sarbanes oxley act   u,Governance,0.5410043001174927
+16,  b   by the registered public accounting firm that prepared or issued its audit report,Governance,0.6302762627601624
+33, with about   employees worldwide  the company is committed to helping build a better world  where every person is free to move and pursue their dreams,Social,0.9875686764717102
+34, the company s ford  plan for growth and value creation combines existing strengths  new capabilities  and always on relationships with customers to enrich experiences for customers and deepen their loyalty,Social,0.5922800302505493
+39, the corporate governance information on our website includes our corporate governance principles  code of ethics for senior financial personnel  code of ethics for the board of directors  code of corporate conduct for all employees  and the charters for each of the committees of our board of directors,Governance,0.8715723156929016
+47, our integrated sustainability and financial report  which details our performance and progress toward our sustainability and corporate responsibility goals  is available at  ,Social,0.9562612771987916
+90,  palladium   energy  e,Environmental,0.9815053343772888
+91,  natural gas   and plastics resins  e,Environmental,0.7213930487632751
+93,  as we transition to a greater mix of electric vehicles  we expect to increase our reliance on lithium  cobalt  nickel  graphite  and manganese  among other materials  for batteries,Environmental,0.978793740272522
+99,  we expect to continue building this portfolio as we actively pursue innovation in every part of our business,Social,0.7498314380645752
+107,  safety recalls  emission recalls  and other product campaigns   and for customer satisfaction actions,Social,0.945998191833496
+127,  eu  d  ,Social,0.6917107701301575
+179, these include expenses related to setting and directing global policy  providing oversight and stewardship  and promoting the company s interests,Social,0.897776186466217
+182, governmental standards many governmental standards and regulations relating to safety  fuel economy  emissions control  noise control  vehicle recycling  substances of concern  vehicle damage  and theft prevention are applicable to new motor vehicles  engines  and equipment,Environmental,0.6313526630401611
+183, in addition  manufacturing and other automotive assembly facilities are subject to stringent standards regulating air emissions  water discharges  and the handling and disposal of hazardous substances,Environmental,0.9762545824050904
+184, the most significant of the standards and regulations affecting us are discussed below  vehicle emissions control u,Environmental,0.9846854209899902
+185, requirements   federal and california tailpipe emission standards,Environmental,0.986749231815338
+186, environmental protection agency   epa   and the california air resources board   carb   have established motor vehicle tailpipe and evaporative emissions standards that become increasingly stringent over time,Environmental,0.99225252866745
+187, seventeen states have adopted california s light duty standards  four states have adopted california s heavy duty standards  and other states are expected to join,Social,0.8490489721298218
+188, both federal and california regulations also require motor vehicles to be equipped with on board diagnostic   obd   systems that monitor emission related systems and components,Environmental,0.9661574363708496
+190, canada accepts epa certification,Environmental,0.4706747233867645
+191, compliance with emissions standards  obd requirements  and related regulations can be challenging and can drive increased product development costs  warranty costs  and vehicle recalls,Environmental,0.9747151136398317
+192, carb has adopted new emissions regulations applicable to model year  heavy duty engines  as well as extended heavy duty warranty requirements beginning with the  model year  and epa has proposed more stringent heavy duty standards beginning with the  model year,Environmental,0.9751234650611876
+193, these rules include more stringent emissions standards  as well as new requirements affecting durability testing  warranty  and obd,Environmental,0.991570234298706
+194, carb has also adopted new light duty emissions standards applicable to  model year vehicles  including a more stringent emissions standard and other new emissions requirements,Environmental,0.9904672503471376
+196, compliance with automobile emissions standards depends in part on the widespread availability of high quality and consistent automotive fuels that the vehicles were designed to use,Environmental,0.9917551279067992
+197, legislative  regulatory  and judicial developments related to fuel quality at both the national and state levels could affect vehicle manufacturers  warranty costs as well as their ability to comply with vehicle emissions standards,Environmental,0.9803506135940552
+198, business  continued  the california vehicle emissions program also includes requirements for manufacturers to produce and deliver for sale zero emission vehicles   zevs  ,Environmental,0.9907435774803162
+199, california s light duty vehicle zev regulation  which uses a system based on credits that can be banked and carried forward  mandates annual increases in the production and sale of battery electric  fuel cell  and plug in hybrid vehicles,Environmental,0.8806076049804688
+201, in august   california approved a sweeping revision to the zev regulation,Social,0.6943275928497314
+204, california has also instituted zev regulations governing medium  and heavy duty vehicles  beginning with the  model year,Social,0.5582751631736755
+209, regulations  directives  and related legislation limit the amount of regulated pollutants that may be emitted by new motor vehicles and engines sold in the eu and the united kingdom,Environmental,0.9863091707229614
+210, regulatory stringency has increased significantly with the application of stage vi emission standards  first introduced in   and the implementation of a laboratory test cycle for co and emissions and the introduction of on road emission testing using portable emission analyzers  real driving emission or  rde  ,Environmental,0.9924227595329284
+211, these on road emission tests are in addition to the laboratory based tests  first introduced in  ,Environmental,0.9890867471694946
+212, the divergence between the regulatory limit that is tested in laboratory conditions and the allowed values measured in rde tests will ultimately be reduced to zero as the regulatory demands increase,Environmental,0.5048390626907349
+213, in addition  new requirements for tailpipe and non tailpipe emissions will be included in the upcoming euro  regulation  and the lead time for engineering and type approval may potentially be too short,Environmental,0.9797534346580504
+214, the costs associated with complying with all of these requirements are significant  and following the eu commission s indication of its intent to accelerate emissions rules in its road map publication  eu green deal  as well as the eu sustainable mobility action plan  these challenges will continue in european markets  including the united kingdom,Environmental,0.9716572761535645
+215, in addition  the whole vehicle type approval   wvta   regulation has been updated to increase the stringency of in market surveillance,Social,0.8205207586288452
+218, there is an increasing trend of city access restrictions for internal combustion engine powered vehicles,Environmental,0.9729301929473876
+221, in an effort to support the paris accord  some countries are adopting yearly increases in co taxes  where such a system is in place  and publishing dates by when internal combustion powered vehicles may no longer be registered  e,Environmental,0.441253662109375
+224, many countries  in an effort to address air quality and climate change concerns  are adopting previous versions of european or united nations economic commission for europe   un ece   mobile source emission regulations,Environmental,0.9918199777603148
+227, for example  the china stage vi light duty vehicle emission standards  based on european stage vi emission standards for light duty vehicles  u,Environmental,0.9833975434303284
+228, evaporative and refueling emissions standards  and carb obd ii requirements  incorporate two levels of stringency for tailpipe emissions,Environmental,0.9922243356704712
+229, under the level one  vi a   standard  which is currently in place nationwide in china  the emissions limits are comparable to the eu stage vi limits  except for carbon monoxide  which is   lower than the eu stage vi limit,Environmental,0.9897224307060242
+230, the more stringent level two  vi b   standard s emissions limits are approximately    lower than the eu stage vi limits  depending on the pollutant,Environmental,0.9915485978126526
+231, while level two  vi b   is not slated for nationwide implementation until july   the government has encouraged the more economically developed cities and provinces to pull ahead implementation,Social,0.964501142501831
+232, for example  beijing  shanghai  tianjin  hebei province  and guangdong province have all begun implementing level two  vi b  ,Social,0.9236785769462584
+233, both china stage vii light duty vehicle and heavy duty vehicle emission regulations are currently under pre study  and the ministry of ecology and environment has advised that the stage vii regulations will have more stringent limits on pollutant emissions and will establish limits for greenhouse gas  primarily co  tailpipe emissions,Environmental,0.9925398230552672
+234, in south america  most countries are evolving to implement more stringent requirements accepting europe and u,Social,0.8673217296600342
+235, regulations  except brazil  which has a unique local process called proconve based on u,Social,0.9812350869178772
+237, business  continued  canadian criteria emissions regulations are largely aligned with u,Environmental,0.987751603126526
+238, requirements  however  the existing zev regulations in quebec and those published in british columbia in july  are more stringent than those in place in california,Social,0.4015653133392334
+240, the federal government has published draft light duty zev sales requirements through an amendment to the passenger automobile and light truck greenhouse gas emission regulations and has also published its intent to develop zev sales requirements for heavy duty vehicles,Environmental,0.9804625511169434
+241, other provinces have signaled their interest in light duty zev sales regulations but are awaiting the finalization of the federal zev regulations,Social,0.7285784482955933
+242, elsewhere  there is a mix of regulations and processes based on u,Social,0.8430253267288208
+243, and eu standards,Governance,0.6032989025115967
+244, not all countries have adopted appropriate fuel quality standards to accompany the stringent emission standards adopted,Environmental,0.9915655851364136
+245, this could lead to compliance problems  particularly if obd or in use surveillance requirements are implemented,Governance,0.7580537796020508
+246, global developments,Social,0.7153457403182983
+247, in recent years  epa and carb have increased their focus on the use of  defeat devices,Environmental,0.7344220280647278
+248,  defeat devices are elements of design  typically embedded in software  that improperly cause the emission control system to function less effectively during normal on road driving than during an official laboratory emissions test  without justification,Environmental,0.9914113283157348
+249, they are prohibited by law in many jurisdictions  and we do not use defeat devices in our vehicles,Social,0.914223313331604
+250, regulators around the world continue to scrutinize automakers  emission testing  which has led to a number of defeat device settlements by various manufacturers,Environmental,0.9841175079345704
+251, epa is carrying out additional non standard tests as part of its vehicle certification program,Social,0.5692625045776367
+252, carb has also been conducting extensive non standard emission tests  which in some cases have resulted in certification delays for diesel vehicles,Environmental,0.9902225732803344
+253, in the past  several european countries have conducted non standard emission tests and published the results  and  in some cases  this supplemental testing has triggered investigations of manufacturers for possible defeat devices,Environmental,0.98405784368515
+256, vehicle fuel economy and greenhouse gas standards u,Environmental,0.9926224946975708
+258, federal law requires that light duty vehicles meet minimum corporate average fuel economy   cafe   standards set by the national highway traffic safety administration   nhtsa  ,Environmental,0.7421678304672241
+261, epa also regulates vehicle greenhouse gas   ghg   emissions under the clean air act,Environmental,0.9905434250831604
+262, because the vast majority of ghgs emitted by a vehicle are the result of fuel combustion  ghg emission standards are similar to fuel economy standards,Environmental,0.991324782371521
+263, thus  nhtsa and epa coordinate with each other on their fuel economy and ghg standards  respectively  to avoid potential inconsistencies,Environmental,0.9917013049125672
+264, beginning with the  model year  epa and nhtsa jointly promulgated harmonized ghg and fuel economy regulations under what came to be known as the  one national program    onp   framework,Environmental,0.9902427792549132
+265, california  which had promulgated its own state specific set of ghg regulations  agreed that compliance with the federal program would satisfy compliance with its own ghg requirements  thereby avoiding a patchwork of potentially conflicting federal and state ghg standards,Environmental,0.9793241024017334
+266, onp has required manufacturers to achieve increasingly stringent year over year standards,Social,0.8630033135414124
+268, in   epa introduced significantly less stringent fuel economy and ghg standards applicable to model years  ,Environmental,0.9911574125289916
+269, the federal government also revoked california s authority to set and enforce its own vehicle ghg standards  as well as the authority of other states that opted in to california s standards,Environmental,0.9857954978942872
+270, california continued to assert its authority to regulate vehicle ghgs  challenged in court the federal government s preemption actions  withdrew from onp  and planned to return to enforcing its own state specific ghg standards,Environmental,0.9872265458106996
+272, to avoid a  bifurcated  regulatory scenario in which california and the  other states that adopted california s ghg standards enforce one set of rules  while a different set of rules applies in the rest of the country  ford reached an agreement with california on a set of terms for an alternative framework in which ford committed to meet a designated set of standards on a national basis in lieu of the california regulatory program,Environmental,0.9749552011489868
+273, this framework enabled ford to continue its product planning on a nationwide basis  while being consistent with ford s environmental goals,Environmental,0.9910388588905334
+275, in   epa again re evaluated the stringency of light duty fuel economy and ghg standards through the  model year  and considered whether to restore the stringency to the previous onp levels  or greater,Environmental,0.9920251369476318
+276, epa finalized this evaluation in december   establishing ghg standards applicable to model years   with stringency that exceeded onp levels,Environmental,0.9884823560714722
+277, in   nhtsa finalized more stringent fuel economy standards for model years    which are substantially aligned with epa s ghg standards,Environmental,0.992056667804718
+278, the federal government also acted in december  to repeal its rule blocking california s authority to set and enforce its own vehicle ghg standards  as well as the authority of other states that adopted california s standards  and epa took similar action in early  under the clean air act,Environmental,0.977123498916626
+279, in late   epa began consideration of sweeping changes to light duty ghg regulations for model years  and beyond,Environmental,0.989534556865692
+280, these regulations are expected to extend through at least the  model year  and to drive significant zev sales mix  along with rapid improvement of ice vehicle performance  by virtue of greatly increased stringency,Environmental,0.7248350977897644
+285, epa and nhtsa have jointly promulgated ghg and fuel economy standards for heavy duty vehicles  generally  vehicles over   pounds gross vehicle weight rating  through the  model year  and epa is preparing a major update to these standards for the  model year and beyond,Environmental,0.989022970199585
+289, the european union regulates passenger car and light commercial vehicle co emissions using sliding scales with different co targets for each manufacturer based on the respective average vehicle weight for its fleet of vehicles first registered in a calendar year  with separate targets for passenger cars and light commercial vehicles,Environmental,0.9805532097816468
+290, a penalty system applies to manufacturers failing to meet the individual co targets,Social,0.5533567070960999
+295, the initial target levels get significantly more stringent every five years      and   after which all new vehicles must be zero emission   requiring significant investments in propulsion technologies and extensive fleet management forcing low co emissions,Environmental,0.9920346140861512
+297, the eu commission is investigating the introduction of real driving co and life cycle assessment elements  and heavy duty vehicles are addressed in separate regulations with analogous requirements and challenges,Social,0.9422706961631776
+298, as discussed above  the eu commission has announced a  green deal  that is likely to trigger more stringent requirements for co emissions  including stricter co fleet regulations  and other regulated emissions and include recycling and substance restrictions,Environmental,0.9922826886177064
+299, while the eu commission targets net climate neutrality by  and a more ambitious  interim target  a   instead of   co reduction compared to    several countries  such as germany  have adopted stricter interim targets and earlier net climate neutrality targets,Environmental,0.989586055278778
+302, business  continued  the united nations developed a technical regulation for passenger car emissions and co,Environmental,0.9868531227111816
+303, this world light duty test procedure   wltp   is focused primarily on better aligning laboratory co and fuel consumption figures with customer  reported figures,Environmental,0.9693410992622375
+304, the introduction of wltp in europe started in september  and requires updates to co labeling  thereby impacting taxes in countries with a co tax scheme as well as co fleet regulations for passenger cars and light commercial vehicles,Social,0.5928031206130981
+306, some european countries have implemented or are considering other initiatives for reducing co vehicle emissions  including fiscal measures and co labeling to address country specific targets associated with the paris accord,Environmental,0.9899677038192748
+307, for example  the united kingdom  france  germany  spain  portugal  and the netherlands  among others  have introduced taxation based on co emissions,Environmental,0.988821506500244
+309, in addition  delayed vehicle launches and supply shortages  as well as an insufficient charging infrastructure and lower demand for zev and low co emission vehicles as certain electric vehicle incentives are reduced  can trigger compliance risks in all european markets,Environmental,0.6344355940818787
+311, the canadian federal government regulates vehicle ghg emissions under the canadian environmental protection act,Environmental,0.9893887639045716
+312, in october   the canadian federal government published the final changes to the regulation for light duty vehicles  which maintain alignment with u,Social,0.8110284209251404
+313, epa vehicle ghg standards for the   model years,Environmental,0.9868049621582032
+314, epa standards were automatically adopted in canada by reference for the   model years  and draft amendments for a few standalone administrative elements not automatically adopted by reference were published in december ,Environmental,0.480347603559494
+315, the heavy duty vehicle and engine ghg emissions regulations for the  model year and beyond were published in may  and are in line with u,Environmental,0.9862539768218994
+317, china s corporate average fuel consumption and new energy vehicle   nev   credit administrative rules contain fuel consumption requirements as well as credit mandates for nev passenger vehicles  i,Environmental,0.9873825907707214
+318,  plug in hybrids  battery electric vehicles  or fuel cell vehicles,Environmental,0.8498513102531433
+319, the fuel consumption requirement uses a weight based approach to establish targets  with year over year target reductions,Environmental,0.9897059202194214
+320, china set a target of ,Social,0.9063121676445008
+321,l km for the  passenger vehicle industry fuel consumption fleet average  which lowers to ,Environmental,0.95064115524292
+323, the government is projecting a further fuel consumption reduction in   and is targeting ,Environmental,0.988886535167694
+329, vehicle safety u,Social,0.9685239791870116
+331, the national traffic and motor vehicle safety act of   the  safety act   regulates vehicles and vehicle equipment in two primary ways,Social,0.973349928855896
+332, first  the safety act prohibits the sale in the united states of any new vehicle or equipment that does not conform to applicable vehicle safety standards established by nhtsa,Social,0.600773811340332
+333, meeting or exceeding many safety standards is costly and has continued to evolve as global compliance and public domain  e,Social,0.949928879737854
+334,  new car assessment programs   ncaps    insurance institute for highway safety   iihs    requirements continue to evolve  are increasing in demands  and lack harmonization globally,Social,0.9763719439506532
+335, as we expand our business priorities to include autonomous vehicles and broader mobility products and services  our financial exposure has increased,Social,0.96732759475708
+336, second  the safety act requires that defects related to motor vehicle safety be remedied through safety recall campaigns,Social,0.9839547872543336
+337, a manufacturer is obligated to recall vehicles if it determines the vehicles do not comply with a safety standard,Social,0.9774463772773744
+340, the eu has established vehicle safety standards and regulations and is likely to adopt additional or more stringent requirements in the future  especially in the areas of access to in vehicle data  artificial intelligence  and autonomous vehicles,Social,0.9717179536819458
+342, business  continued  the european general safety regulation   gsr   introduced un ece regulations  which are required for the european type approval process,Social,0.5329671502113342
+343, the gsr includes the mandatory introduction of multiple active and passive safety features  including cybersecurity requirements for new vehicle models from  and for all registrations in ,Social,0.9773205518722534
+344, eu regulators are focusing on active safety features  such as lane departure warning systems  electronic stability control  and automatic brake assist,Social,0.984993577003479
+345, furthermore  mobile network providers in certain eu member states have begun shutting down their g and g networks  which form the basis for e call system functionality in existing vehicles,Social,0.472006231546402
+349, globally  governments generally have been adopting un ece based regulations with minor variations to address local concerns,Social,0.9809641242027284
+350, any difference between north american and un ece based regulations can add complexity and costs to the development of global platform vehicles  and we continue to support efforts to harmonize regulations to reduce vehicle design complexity while providing a common level of safety performance  several on going bilateral negotiations on free trade can potentially contribute to this goal,Social,0.9714689254760742
+351, safety and recall requirements in brazil  china  india  south korea  and gulf cooperation council   gcc   countries may add substantial costs and complexity to our global recall practice,Social,0.979224979877472
+352, brazil has set mandatory fleet safety targets and penalties are applied if these levels are not maintained  while a tax reduction may be available for over performance,Social,0.9727522730827332
+353, in canada  regulatory requirements are currently aligned with u,Social,0.6000597476959229
+354, regulations  however  under the canadian motor vehicle safety act  the minister of transport has broad powers to order manufacturers to submit a notice of defect or non compliance when the minister considers it to be in the interest of safety,Social,0.8879806995391846
+355, in   canada started preliminary consultations on several new proposed regulations  including administrative monetary penalties   amps   and analysis of technical information for vehicles and equipment   active   regulations,Social,0.9609768390655518
+357, in china  a new mandatory event data recorder regulation that is more comprehensive than u,Social,0.8312035202980042
+358, requirements has been released  and in china  malaysia  and south korea  mandatory e call requirements are being drafted,Social,0.6846438050270081
+359, e call is mandatory in the uae for new vehicles starting with the  model year  and in saudi arabia from the  model year,Social,0.8064412474632263
+360, new car assessment programs,Social,0.9571978449821472
+361, organizations around the world rate and compare motor vehicles in ncaps to provide consumers and businesses with additional information about the safety of new vehicles,Social,0.9704511761665344
+362, ncaps use crash tests and other evaluations that are different than what is required by applicable regulations  and use stars to rate vehicle safety  with five stars awarded for the highest rating and one for the lowest,Social,0.9826465845108032
+363, achieving high ncap ratings  which may vary by country or region  can add complexity and cost to vehicles,Social,0.7913642525672913
+364, similarly  environmental rating systems exist in various regions  e,Environmental,0.9850333333015442
+365,  green ncap in europe,Environmental,0.8819217681884766
+367, further  the china insurance auto safety index  similar to iihs  has been implemented  with higher standards for passenger and pedestrian protection and driver assistance technologies,Social,0.9897206425666808
+368, these protocols impose additional requirements relating to testing  evaluation  and mandatory safety features  and compliance with them  or any subsequent updates to them  may be costly,Governance,0.3927385210990906
+369, business  continued  human capital resources people strategy and governance we strive to create an employee experience that enables an inclusive environment of excellence  focus  and collaboration among team members  allowing us to deliver short  and long term business success,Social,0.9619665741920472
+370, ford maintains an executive people forum consisting of the ceo and top leadership team that meets monthly with a specific focus on people and organizational topics that will enable and accelerate delivery of the business plan,Social,0.7624374032020569
+371, key topic areas include compensation   retention  diversity  equity  and inclusion   dei    organization design  talent planning   development  and culture,Social,0.701410710811615
+372, our board of directors and board committees provide important oversight on certain human capital matters  including items discussed at the executive people forum,Governance,0.8960094451904297
+373, the compensation  talent and culture committee maintains responsibility to review  discuss  and set strategic direction for various people related business strategies  including  compensation and benefit programs  leadership succession planning  culture  dei  and talent development programs,Governance,0.5364304780960083
+374, the sustainability  innovation and policy committee is responsible for discussing and advising management on maintaining and improving sustainability strategies  the implementation of which creates value consistent with the long term preservation and enhancement of shareholder value and social wellbeing  including human rights  working conditions  and responsible sourcing,Social,0.9594140648841858
+375, the collective recommendations to the board and its committees are how we proactively manage our human capital and create an employee experience that allows employees and our organization to thrive,Social,0.9268293976783752
+376, diversity  equity  and inclusion at ford  we believe that creating a culture of inclusion for all our employees is both foundational to achieving our ford  plan and the right thing to do,Social,0.8008726835250854
+377, ford offers  employee resource groups   ergs   that represent various dimensions of our employee population  including racial  ethnic  gender  religious  sexual orientation and gender identity  ability  and generational communities with chapters throughout the world  in addition to ford advocacy for belonging   fab   councils in every region,Social,0.9909965991973876
+378, our ergs and fab councils are instrumental in providing a voice to our globally diverse workforce as well as sharing valuable insights into the development of products  services  and experiences,Social,0.9894501566886902
+379, our business has developed dei action plans specific to each region s unique needs and culture,Social,0.9540387392044068
+380, from an enterprise perspective  we have taken several concrete steps to further these efforts  including embedding dei into our corporate strategy and governance  ensuring that revisions to employee expected behaviors enable an inclusive culture  and establishing objectives for progress for every salaried employee,Social,0.8184676170349121
+381, this holistic dei strategy includes a strong focus on racial equity  growing representation of diverse talent throughout the pipeline  and dei education,Social,0.984339952468872
+383,  of our salaried employees worldwide are females  excludes certain employees in europe in accordance with the european union s general data protection regulation   ,Social,0.935874044895172
+384,  of our total salaried and hourly employees in the united states are females  and ,Social,0.9842575788497924
+385,  of our total salaried and hourly employees in the united states are minorities,Social,0.9723044037818908
+386, talent attraction  growth  and capability assessment the workplace is quickly evolving  and new working practices are constantly developing,Social,0.9900318384170532
+387, many employees are no longer bound to physical locations  where and how we source our talent is evolving  and employee expectations have shifted,Social,0.9777241349220276
+389,  software  electrification  and data science ,Social,0.8096356987953186
+390, ford continues to accelerate its efforts to attract new employees with diverse skill sets and capabilities  and more resources have been dedicated to recruiting these employees  who are critical to supporting our business model,Social,0.9762939810752868
+391, from a capability perspective  we are leveraging best practices in assessments and talent management to strengthen our current capabilities and future pipeline while reinforcing a culture of belonging  collaboration  empowerment  and innovation,Social,0.9793744087219238
+392, the performance management process is reviewed regularly to ensure we set clear expectations  measure individual performance  and reward appropriately,Governance,0.6981051564216614
+393, we are also creating targeted learning experiences  democratizing learning and career development opportunities across the organization  and empowering employees to design their own career paths with skill development targeted for the roles of today and the future,Social,0.9892499446868896
+394, business  continued  finally  the extent to which our people leaders are equipped to care for  inspire  and empower our people plays a vital role in our strategy  and we are committed to helping our leaders strengthen these capabilities with dedicated learning paths and non traditional learning opportunities,Social,0.9905739426612854
+395, our leadership  mechanism for developing people leaders guides how we think about performance management and how we assess our talent to meet our organizational needs,Social,0.948136866092682
+396, leadership  will continue to prepare and empower our people leaders to lead our teams through significant change at our company and in our industry,Social,0.9543606638908386
+397, employee health and safety nothing is more important than the health  safety  and wellbeing of our employees  and we consistently strive to achieve world class levels of safety through the application of sound policies and best practices,Social,0.982846200466156
+398, we maintain a robust safety culture to reduce workplace injuries  supported by effective communication  reporting  and external benchmarking,Social,0.9874539375305176
+399, we verify compliance with regulatory requirements as well as our internal safety standards and regularly report to company management on key safety issues  including significant incidents and high potential near misses  to prevent recurrences,Social,0.9501583576202391
+400, we also participate in multi industry groups  within and outside the automotive sector  to share safety best practices and collaborate to address common issues,Social,0.9893388152122498
+401, our safety record any loss of life or serious injury in the workplace is unacceptable and deeply regretted,Social,0.98325115442276
+402, unfortunately  there were two fatal incidents in  in our china region,Social,0.9666911959648132
+403, another key safety indicator is our global lost time case rate   ltcr    which is defined as the number of cases where one or more working days is lost due to work related injury illness per   hours worked,Social,0.9826000332832336
+406, we will continue our efforts to reduce workplace injuries,Social,0.9788851141929626
+407, employee wellbeing initiatives our global  holistic approach to wellbeing encompasses the financial  social  mental emotional  physical  and professional needs of our employees,Social,0.9889752864837646
+408, foundational to our wellbeing philosophy is providing a broad array of resources and solutions to educate employees  build capability  and meet individual and organizational wellbeing needs and goals,Social,0.990876853466034
+409, wellbeing is an integral part of our total rewards strategy as we work to address business and employee challenges through a multi channel approach that provides our diverse populations and global regions flexibility and choice to meet their specific needs,Social,0.9906361699104308
+410, we use data driven insights gathered through surveys  focus groups  and claims data to understand employee needs and prioritize our wellbeing efforts,Social,0.986198663711548
+411, we provide global wellbeing programs  such as employee assistance programs and mindfulness sessions  among other things,Social,0.9913376569747924
+412, in addition  we provide employees with experiences  self guided tools  and social connection opportunities  as well as access to the professional support and resources they need to achieve their own sense of wellbeing,Social,0.98966646194458
+413, we are committed to creating an environment where employees and people leaders care for each other as we deliver ford ,Social,0.9360793828964232
+414, employee sentiment strategy we leverage our ask listen observe framework to understand employee sentiment at ford,Social,0.9136270880699158
+415, this approach is a holistic and consistent methodology that enables us to understand how employees are feeling in real time and act accordingly,Social,0.9603874683380128
+416, our measurement focuses on several areas that are key to our business  employee mental and emotional wellbeing  health   safety  employee experience  culture  dei  leadership  and strategic alignment,Social,0.9874469637870787
+417, our employee sentiment surveys guide the actions we take to address employee concerns and related risks  and also help us understand whether our efforts to drive change in these areas are effective,Social,0.9430014491081238
+418, a critical element of our measurement program is ensuring that data ends up in the hands of those who are best positioned to drive meaningful change,Social,0.9299980998039246
+419, to this end  leaders at all levels have access to dashboards with data from their teams and organizations  as well as personalized next step recommendations embedded into action planning tools,Social,0.9769734740257264
+420, our measurement approach is also used to inform our areas of focus as an organization and to evaluate the effectiveness of talent initiatives across the enterprise,Social,0.7637999057769775
+422, substantially all of the hourly employees in our automotive operations are represented by unions and covered by collective bargaining agreements,Social,0.8945872187614441
+423, in the united states  approximately   of these unionized hourly employees in our automotive segment are represented by the international union  united automobile  aerospace and agricultural implement workers of america   uaw  or  united auto workers  ,Social,0.947923481464386
+424, at december     approximately   hourly employees in the united states were represented by the uaw,Social,0.9365211129188538
+427, we face various risks related to public health issues  including epidemics  pandemics  and other outbreaks  including the global outbreak of covid ,Social,0.974247932434082
+429, there have been extraordinary actions taken by international  federal  state  and local public health and governmental authorities to contain and combat the outbreak and spread of covid  in regions throughout the world  including travel bans  quarantines   stay at home  orders  and similar mandates for many individuals to substantially restrict daily activities and for many businesses to curtail or cease normal operations,Social,0.9813815355300904
+430, for example  in   consistent with the actions taken by governmental authorities  we idled our manufacturing operations in regions around the world before ultimately resuming our manufacturing operations taking a phased approach and after introducing new safety protocols at our plants,Social,0.985645592212677
+431, to the extent cases surge in any locations  stringent limitations on daily activities that may have been eased previously could be reinstated in those areas,Social,0.9411677122116088
+433, moreover  outbreaks in certain regions continue to cause intermittent disruptions in our supply chain and local manufacturing operations,Social,0.9537550806999208
+439, for example  the duration of a suspension of manufacturing operations and a return to our full production schedule will depend  in part  on not only a sufficient number of employees being able to return to work but also whether our suppliers and dealers have resumed normal operations,Social,0.8483765125274658
+451,  lithium  cobalt  nickel  graphite  and manganese  used by our suppliers to produce those batteries,Environmental,0.9762425422668456
+452, as we increase our production of electric vehicles  we expect our need for such materials to increase significantly,Environmental,0.9716892838478088
+460,  lithium  cobalt  nickel  graphite  and manganese  among others,Environmental,0.8174487948417664
+470, ford  is focused on delivering distinctive and increasingly electric products plus  always on  customer relationships and user experiences,Social,0.8741875290870667
+471, our ford  plan is designed to leverage our foundational strengths to build new capabilities   enriching customer experiences and deepening loyalty,Social,0.942100703716278
+473, to facilitate this transformation  we are making substantial investments  recruiting new talent  and optimizing our business model  management system  and organization,Social,0.9641444087028505
+478, government safety standards require manufacturers to remedy defects related to vehicle safety through safety recall campaigns  and a manufacturer is obligated to recall vehicles if it determines that the vehicles do not comply with a safety standard,Social,0.9782455563545228
+480, nhtsa s enforcement strategy has resulted in significant civil penalties being levied and the use of consent orders requiring direct oversight by nhtsa of certain manufacturers  safety processes  a trend that could continue,Social,0.4395756125450134
+483, for example  nhtsa and the automotive industry are currently engaged in a study of the safety of approximately  million takata desiccated airbag inflators in the united states,Social,0.94770085811615
+507, such incidents could materially disrupt operational systems  result in loss of trade secrets or other proprietary or competitively sensitive information  compromise the privacy of personal information of consumers  employees  or others  jeopardize the security of our facilities  affect the performance of in vehicle systems or services we offer  and or impact the safety of our vehicles,Social,0.6152905225753784
+508, this risk exposure rises as we continue to develop and produce vehicles with increased connectivity,Social,0.7586376667022705
+520, given the worldwide scope of our supply chain and operations  we and our suppliers face a risk of disruption or operating inefficiencies that may increase costs due to the adverse physical effects of climate change  which are predicted to increase the frequency and severity of weather and other natural events  e,Environmental,0.7986050844192505
+521,  wildfires  extended droughts  and extreme temperatures,Environmental,0.9600895643234252
+524, such suppliers also could threaten to disrupt our production as leverage in negotiations,Social,0.6261915564537048
+528, accordingly  a significant disruption to our production schedule could have a substantial adverse effect on our financial condition or results of operations and may impact our strategy to comply with fuel economy standards as discussed below under  ford may need to substantially modify its product plans and facilities to comply with safety  emissions  fuel economy  autonomous driving technology  environmental  and other regulations,Environmental,0.8063538670539856
+530, the vast majority of the hourly employees in our ford blue and ford model e manufacturing operations in the united states and canada are represented by unions and covered by collective bargaining agreements,Social,0.8391379714012146
+531,  these agreements provide guaranteed wage and benefit levels throughout the contract term and some degree of income security  subject to certain conditions,Social,0.6567108631134033
+533, a substantial number of our employees in other regions are represented by unions or government councils  and legislation or custom promoting retention of manufacturing or other employment in the state  country  or region may constrain as a practical matter our ability to sell or close manufacturing or other facilities,Social,0.958556056022644
+534, ford s ability to attract and retain talented  diverse  and highly skilled employees is critical to its success and competitiveness,Social,0.6497817635536194
+535, our success depends on our ability to continue to recruit and retain talented and diverse employees who are highly skilled in engineering  software  technology  including digital capabilities and connectivity   marketing  and finance  among other areas,Social,0.7662486433982849
+536, competition for such employees is intense  which has led to an increase in compensation throughout a tight labor market  and  accordingly  may increase costs for employers,Social,0.8556812405586243
+537, we have struggled to hire and retain salaried  skilled hourly  and production hourly employees in some of our manufacturing and parts  supplies  and logistics locations,Social,0.9771157503128052
+538, in addition to compensation considerations  current and potential employees are increasingly placing a premium on various intangibles  such as working for companies with a clear purpose and strong brand reputation  flexible work arrangements  and other considerations  such as embracing sustainability and diversity  equity  and inclusion initiatives,Social,0.98311448097229
+539, if we are not perceived as an employer of choice  we may be unable to recruit highly skilled employees,Social,0.8916170597076416
+548, with increased consumer interconnectedness through the internet  social media  and other media  mere allegations relating to quality  safety  fuel efficiency  sustainability  corporate social responsibility  or other key attributes can negatively impact our reputation or market acceptance of our products or services  even where such allegations prove to be inaccurate or unfounded,Social,0.960181474685669
+555, we have announced our intent to continue making multi billion dollar investments in electrification and software services,Social,0.6850513219833374
+556, our plans include offering electrified versions of many of our vehicles  including the f  lightning and e transit,Environmental,0.8079767823219299
+558, further  as discussed below under  ford may need to substantially modify its product plans and facilities to comply with safety  emissions  fuel economy  autonomous driving technology  environmental  and other regulations   lower than planned market acceptance of our vehicles may impact our strategy to comply with fuel economy standards,Environmental,0.9534702897071838
+559, ford is addressing its impact on climate change aligned with the united nations framework convention on climate change  paris agreement  by working to reduce our carbon footprint over time across our vehicles  operations  and supply chain,Environmental,0.9909250736236572
+560, we have announced interim emissions targets approved by the science based targets initiative  sbti  and made other statements about similar initiatives  e,Environmental,0.990657925605774
+564, for example  we are exposed to reputational risk if we do not reduce vehicle co emissions in line with our targets or in compliance with applicable regulations,Environmental,0.9920392036437988
+572, in addition  government regulations aimed at reducing emissions and increasing fuel efficiency  e,Environmental,0.991908848285675
+573,  zev mandates and low emission zones  and other factors that accelerate the transition to electric vehicles may increase the cost of vehicles by more than the perceived benefit to consumers and dampen margins,Environmental,0.9697744250297546
+579, automakers due to the strain in u,Social,0.8762113451957703
+580, china relations  china s unique regulatory landscape  and the level of integration with key components in our global supply chain,Social,0.97580224275589
+619, we receive economic benefits from national  state  and local governments in various regions of the world in the form of incentives designed to encourage manufacturers to establish  maintain  or increase investment  workforce  or production,Social,0.9704831838607788
+623, until   most of our manufacturing facilities in south america were located in brazil  where the state or federal governments historically offered significant incentives to manufacturers to encourage capital investment  increase manufacturing production  and create jobs,Social,0.9645327925682068
+630, inflation reduction act   ira   provides  among other things  financial incentives in the form of tax credits to grow the domestic supply chain and domestic manufacturing base for electric vehicles  plug in hybrid vehicles  phevs   and other  clean  vehicles,Environmental,0.7578821778297424
+631, the law likewise incentivizes the purchase of clean vehicles and the infrastructure to fuel them,Environmental,0.9879217743873596
+634, the ira authorizes tax credits to manufacturers for the domestic production of batteries and battery components for evs and phevs and to purchasers of qualified commercial and retail clean vehicles,Environmental,0.363222062587738
+636, when paired with the ira s tax credit for the construction of certain electric vehicle charging infrastructure  ford expects the commercial clean vehicle credit will significantly influence commercial fleets in their evaluation of a transition from internal combustion engine vehicles to evs and phevs,Environmental,0.920295238494873
+637, a  critical minerals credit  is available for those vehicles that have a specified percentage of critical minerals that are  extracted or produced  in the united states  in a country with which the united states has a free trade agreement  or that is  recycled  in north america,Environmental,0.9790369868278505
+640, battery supply  sufficient access to raw materials within the scope of the ira  and the terms of the regulations and guidance  and the limitations therein  the u,Social,0.7030378580093384
+641, government issues to implement the ira  which will ultimately determine which vehicles qualify for incentives and the amount thereof,Social,0.8356881141662598
+666, we have defined benefit retirement plans in the united states that cover many of our hourly and salaried employees,Social,0.7101768255233765
+667, we also provide pension benefits to non u,Social,0.7325640916824341
+668, employees and retirees  primarily in europe,Social,0.9391382336616516
+669, in addition  we sponsor plans to provide opeb for retired employees  primarily health care and life insurance benefits ,Social,0.9793369770050048
+674, we spend substantial resources to comply with governmental safety regulations  mobile and stationary source emissions regulations  consumer and automotive financial regulations  and other standards  but we cannot ensure that employees or other individuals affiliated with us will not violate such laws or regulations,Social,0.9463750720024108
+682, ford may need to substantially modify its product plans and facilities to comply with safety  emissions  fuel economy  autonomous driving technology  environmental  and other regulations,Environmental,0.975834846496582
+684, further  additional and new regulations continue to be proposed to address concerns regarding the environment  including concerns about global climate change and its impact   vehicle safety  and energy independence  and the regulatory landscape can change on short notice,Environmental,0.9873946905136108
+685, these regulations vary  but generally require that over time motor vehicles and engines emit less air pollution  including greenhouse gas emissions  oxides of nitrogen  hydrocarbons  carbon monoxide  and particulate matter,Environmental,0.991477906703949
+686, similarly  we are making substantial investments in our facilities and revising our processes to not only comply with applicable regulations but also to make our operations more efficient and sustainable,Social,0.8237482309341431
+688, in the united states  legal and policy debates on environmental regulations are continuing  with a primary trend toward reducing ghg emissions and increasing vehicle electrification,Environmental,0.9925811290740968
+689, recently  different federal administrations have either sought to make standards more strict or to make them less strict  with one administration often replacing the regulations enacted by the last,Social,0.7760050892829895
+691, in parallel  california continues to enact increasingly strict emissions standards and requirements for zero emission vehicles  and those actions are also the subject of legal challenges from third parties,Environmental,0.9909781217575072
+693, in addition  many governments regulate local product content and or impose import requirements with the aim of creating jobs  protecting domestic producers  and influencing the balance of payments,Social,0.9844731688499452
+695, risk factors  continued  we are continuing to make changes to our product cycle plan to improve the fuel economy of our petroleum powered vehicles and to offer more propulsion choices  such as electrified vehicles  with lower ghg emissions,Environmental,0.99220472574234
+696, electrification is our core strategy to comply with current and anticipated environmental laws and regulations in major markets,Environmental,0.986470639705658
+697, if fuel prices are relatively low and market conditions do not drive consumers to purchase electric vehicles and other highly fuel efficient vehicles in large numbers  it may be difficult to meet applicable environmental standards without compromising results,Environmental,0.9840722680091858
+700, increased scrutiny of automaker emission compliance by regulators around the world has led to new regulations  more stringent enforcement programs  additional field actions  demands for reporting on the field performance of emissions components and higher scrutiny of field data  and or delays in regulatory approvals,Environmental,0.9890341758728028
+702, in addition  a number of governments  as well as non governmental organizations  publicly assess vehicles to their own protocols,Social,0.9873310923576356
+705, for more discussion of the impact of standards on our global business  see the  governmental standards  discussion in  item ,Social,0.845381498336792
+707, we and other companies continue to develop autonomous vehicle technologies  and the u,Social,0.744823157787323
+708, and foreign governments are continuing to develop the regulatory framework that will govern autonomous vehicles,Social,0.9407000541687012
+712, s general data protection regulations and the california consumer privacy act  relating to the collection  use  cross border data transfer  and security of personal information of consumers  employees  or others  including laws that may require us to notify regulators and affected individuals of a data security incident,Governance,0.3990395665168762
+743,   by the state of vietnam represented by the ministry of industry and trade     partner ,Social,0.9396686553955078
+766,    shareholder  as its controlling shareholders,Governance,0.7411420941352844
+797, most of the asbestos litigation we face involves individuals who claim to have worked on the brakes of our vehicles,Social,0.6293385028839111
+798, we are prepared to defend these cases and believe that the scientific evidence confirms our long standing position that there is no increased risk of asbestos related disease as a result of exposure to the type of asbestos formerly used in the brakes on our vehicles,Environmental,0.8211551308631897
+815, environmental matters we have received notices under various federal and state environmental laws that we  along with others  are or may be a potentially responsible party for the costs associated with remediating numerous hazardous substance storage  recycling  or disposal sites in many states and  in some instances  for natural resource damages,Environmental,0.8968583941459656
+816, we also may have been a generator of hazardous substances at a number of other sites,Environmental,0.9142500162124634
+826, the são paulo assessment is part of a broader conflict among various states in brazil,Social,0.8592959046363831
+827, the federal legislature enacted laws designed to encourage the states to end that conflict  and in  the states reached an agreement on a framework for resolution,Governance,0.740018367767334
+835, transit connect customs penalty notice,Social,0.9268161058425904
+836, customs and border protection   cbp   ruled in  that transit connects imported as passenger wagons and later converted into cargo vans are subject to the   duty applicable to cargo vehicles  rather than the ,Social,0.9628857970237732
+850, competition and markets authority  the  cma   conducted unannounced inspections at the premises of  and sent formal requests for information to  several companies and associations active in the automotive sector  including ford,Social,0.5169495940208435
+851, the inspections and requests for information concern possible collusion in relation to the collection  treatment  and recovery of end of life cars and vans   elvs  ,Social,0.9573882222175598
+852, we understand that the scope of the investigations includes determining whether manufacturers and importers of passenger cars and vans agreed to an approach to  i  the compensation of elv collection  treatment  and recovery companies  and  ii  the use of data relating to the recyclability or recoverability of elvs in marketing materials  and whether such conduct violates relevant competition laws,Social,0.906567633152008
+855, we are cooperating with the commission and the cma as they complete their investigations,Governance,0.6406542062759399
+856, mine safety disclosures,Social,0.6808483004570007
+860, our executive officers are as follows  along with each executive officer s position and age at february     name  positionposition held since age william clay ford  jr,Governance,0.4754466116428375
+861,  a  executive chair and chair of the board september   james d,Governance,0.871159017086029
+862,  b  president and chief executive officer october   john lawler chief financial officer october   michael amend chief enterprise technology officer september   steven p,Governance,0.4968642592430115
+863, croley chief policy officer and general counsel july   j,Governance,0.8617610931396484
+864, ford s daughter  alexandra ford english  is a member of the board of directors,Governance,0.7626270055770874
+865,  b also a director and member of the office of the chair and chief executive,Governance,0.7824591398239136
+867, prior to joining ford   michael amend was president  online  at lowe s from  to ,Social,0.8586964011192322
+872, croley served as general counsel for the u,Governance,0.725400984287262
+873, department of energy,Social,0.5591413378715515
+874, doug field was vice president  special projects group  at apple from  to ,Social,0.8062872290611267
+875, field served as tesla s senior vice president of engineering,Social,0.682956874370575
+876,  marin gjaja was senior partner and managing director at boston consulting group   bcg  ,Governance,0.4355386197566986
+878,  jennifer waldo was vice president  people business partners at apple from march  to april ,Social,0.4782454073429107
+880, waldo was chief human resources officer at ge digital,Social,0.9493523240089417
+881,  anning chen held several leadership roles in chery automobile ltd  china from  to   including  chief executive officer  executive vice president and chief operating officer  and vice president of products and engineering,Governance,0.4953516721725464
+883, under our by laws  executive officers are elected by the board of directors at an annual meeting of the board held for this purpose or by a resolution to fill a vacancy,Governance,0.5548539161682129
+908, outbreaks in certain regions continue to cause intermittent covid  related disruptions in our supply chain and local manufacturing operations,Social,0.9622056484222412
+911, further  actions taken by russia in ukraine have impacted and could further impact our suppliers  particularly our lower tier suppliers  as well as our operations in europe,Social,0.8798327445983887
+927,  palladium   and raw materials that are used in batteries for electric vehicles  e,Environmental,0.9522226452827454
+928,  lithium  cobalt  nickel  graphite  and manganese  among other materials  for batteries  remain high,Environmental,0.9701894521713256
+930, to help ensure supply of raw materials for critical components  e,Social,0.7917482852935791
+931,  batteries   we  like others in the industry  have entered into multi year sourcing agreements and may enter into additional agreements,Social,0.903003990650177
+932, similar dynamics are impacting energy markets  with europe particularly exposed to the risk of both higher prices and constraints on supply of natural gas due to the ongoing conflict in ukraine,Environmental,0.8269724249839783
+934, in the long term  the outcome of de carbonization and electrification of the vehicle fleet may depress oil demand  but the global energy transition will also contribute to ongoing volatility of oil and other energy prices,Environmental,0.7746957540512085
+940, in addition  government regulations aimed at reducing emissions and increasing fuel efficiency  e,Environmental,0.991908848285675
+941,  zev mandates and low emission zones   and other factors that accelerate the transition to electrified vehicles  may increase the cost of vehicles by more than the perceived benefit to consumers and dampen margins,Environmental,0.910767138004303
+945, while we believe the long  term trend will support the growth of free trade  we will continue to monitor and address developing issues,Social,0.8935137391090393
+1137, these include expenses related to setting and directing global policy  providing oversight and stewardship  and promoting the company s interests,Social,0.897776186466217
+1304, governments  non u,Social,0.9481554627418518
+1305, governmental agencies  and supranational institutions,Social,0.6040396094322205
+1346, moreover  in order to secure critical materials for production of electric vehicles  we have entered into and plan to continue to enter into offtake agreements with raw material suppliers and make investments in certain raw material and battery suppliers  including contributing up to  ,Social,0.8126258254051208
+1347, billion in capital to blueoval sk  llc over a five year period ending in ,Social,0.5077918171882629
+1382,  global redesign  including separations     ,Social,0.9113546013832092
+1441, the corporate  supplemental  and  day credit agreements include certain sustainability linked targets  pursuant to which the applicable margin and facility fees may be adjusted if ford achieves  or fails to achieve  the specified targets related to global manufacturing facility greenhouse gas emissions  renewable electricity consumption  and ford europe co tailpipe emissions,Environmental,0.9609636068344116
+1453, department of energy  a  ,Social,0.4987116456031799
+1779, separately  we also periodically perform field service actions related to safety recalls  emission recalls  and other product campaigns,Social,0.9565695524215698
+1816,  funded status  avoidance of regulatory premiums and levies  and tax efficiency ,Governance,0.4940112829208374
+1821,  health care cost trends,Social,0.6098342537879944
+1854, plans non u,Social,0.4763389527797699
+1862, plans non u,Social,0.4763389527797699
+1958, during   we continued to progress our global redesign,Social,0.8518550992012024
+2017, we monitor and manage these exposures as an integral part of our overall risk management program  which includes regular reports to a central management committee  the global risk management committee   grmc  ,Governance,0.5086439847946167
+2018, the grmc is chaired by our chief financial officer  and the committee includes our controller and treasurer,Governance,0.8500581979751587
+2024, direct responsibility for the execution of our market risk management strategies resides with our treasurer s office and is governed by written policies and procedures,Governance,0.7202348113059998
+2026, regular audits are conducted to ensure that appropriate controls are in place and that they remain effective,Governance,0.9019399285316468
+2055,  palladium   energy  e,Environmental,0.9815053343772888
+2056,  natural gas and electricity   and plastics resins  e,Environmental,0.913278102874756
+2058, as we transition to a greater mix of electric vehicles  we expect to increase our reliance on lithium  cobalt  nickel  graphite  and manganese  among other materials  for batteries,Environmental,0.978793740272522
+2067, in addition  our purchasing organization  with guidance from the grmc  as appropriate  negotiates contracts for the continuous supply of raw materials,Social,0.8897866010665894
+2146,  our chief executive officer   ceo    and john t,Governance,0.6049708724021912
+2147, management s report on internal control over financial reporting,Governance,0.8507078289985657
+2148, our management is responsible for establishing and maintaining adequate internal control over financial reporting  as such term is defined in exchange act rule a  f  or d   f ,Governance,0.8512514233589172
+2152, under the supervision and with the participation of our management  including our ceo and cfo  we conducted an assessment of the effectiveness of our internal control over financial reporting as of december   ,Governance,0.5616482496261597
+2153, the assessment was based on criteria established in the framework internal control   integrated framework     issued by the committee of sponsoring organizations of the treadway commission,Governance,0.8969703316688538
+2160, disclosure regarding foreign jurisdictions that prevent inspections,Governance,0.8853337168693542
+2163, directors  executive officers of ford  and corporate governance,Governance,0.9347142577171326
+2165, election of directors    corporate governance   beneficial stock ownership   and  corporate governance   delinquent section  a  reports  in our proxy statement,Governance,0.9153965711593628
+2167, the information required by item  regarding an audit committee financial expert is incorporated by reference from the information under the caption  corporate governance   audit committee financial expert and auditor rotation  in our proxy statement,Governance,0.8731622099876404
+2168, the information required by item  regarding the members of our audit committee of the board of directors is incorporated by reference from the information under the captions  proxy summary    corporate governance   board committee functions    corporate governance   audit committee financial expert and auditor rotation   and  proposal ,Governance,0.8858299851417542
+2169, election of directors  in our proxy statement,Governance,0.5180072784423828
+2171, the information required by item  regarding our codes of ethics is incorporated by reference from the information under the caption  corporate governance   codes of ethics  in our proxy statement,Governance,0.5477812886238098
+2172, in addition  we have included in item  instructions for how to access our codes of ethics on our website and our internet address,Governance,0.9243127703666688
+2173, amendments to  and waivers granted under  our code of ethics for senior financial personnel  if any  will be posted to our website as well,Governance,0.849393904209137
+2174, executive compensation,Governance,0.8147146701812744
+2177, certain relationships and related transactions  and director independence,Governance,0.9065102338790894
+2178, the information required by item  is incorporated by reference from the information under the captions  corporate governance   certain relationships and related party transactions  and  corporate governance   independence of directors and relevant facts and circumstances  in our proxy statement,Governance,0.5136568546295166
+2181, ratification of independent registered public accounting firm  in our proxy statement,Governance,0.8169072866439819
+2230,  a  exhibit  e description of financial counseling services provided to certain executives,Governance,0.8059888482093811
+2249,  a  exhibit  i description of vehicle evaluation program for non  executive directors,Governance,0.8408514261245728
+2253,  a  exhibit  k description of non employee directors accidental death  dismemberment and permanent total disablement indemnity,Social,0.6274511814117432
+2255,  a  exhibit  k  description of amendment to basic life insurance and accidental death   dismemberment insurance,Social,0.5708887577056885
+2278, exhibit  r  annual incentive compensation plan metrics for ,Governance,0.8267763257026672
+2281,  a  exhibit  r  annual incentive compensation plan metrics for ,Governance,0.8246234059333801
+2296,  a  exhibit  r  executive compensation recoupment policy,Governance,0.8699990510940552
+2334,  a  exhibit  t description of company practices regarding club memberships for executives,Social,0.8383128643035889
+2394, exhibit  consent of independent registered public accounting firm,Governance,0.8174978494644165
+2396, exhibit  powers of attorney,Governance,0.8776812553405762
+2398, rule d  a  certification of ceo,Governance,0.8811824321746826
+2400, rule d  a  certification of cfo,Governance,0.8310883641242981
+2402, section  certification of ceo,Governance,0.7351711988449097
+2404, section  certification of cfo,Governance,0.6597250699996948
+2407,sch xbrl taxonomy extension schema document,Social,0.736797034740448
+2408,cal xbrl taxonomy extension calculation linkbase document,Social,0.5471862554550171
+2409,lab xbrl taxonomy extension label linkbase document,Social,0.7267554998397827
+2410,pre xbrl taxonomy extension presentation linkbase document,Social,0.4398393929004669
+2411,def xbrl taxonomy extension definition linkbase document,Environmental,0.5449668765068054
+2422, director  chair of the board  executive chair  chair of the office of the chair and chief executive  and chair of the finance committeefebruary    william clay ford  jr,Governance,0.8559518456459045
+2427, casiano  director february    kimberly a,Social,0.6166992783546448
+2429, helman iv  director and chair of the sustainability  innovation and policy committeefebruary    william w,Social,0.632954478263855
+2430, helman iv jon m,Social,0.6156677007675171
+2433, kennard  director and chair of the nominating and governance committeefebruary    william e,Governance,0.9192657470703124
+2437, mooney lynn vojvodich radakovich  director and chair of the compensation  talent and culture committeefebruary    lynn vojvodich radakovich john l,Governance,0.6245942115783691
+2438, thornton  director february    john l,Governance,0.447610467672348
+2441, veihmeyer  director and chair of the audit committee february    john b,Governance,0.8783422112464905
+2443, weinberg  director february    john s,Governance,0.4085991382598877
+2445, lawler chief financial officer february    john t,Governance,0.567805290222168
+2446, lawler  principal financial officer    s  cathy o callaghan controller february    cathy o callaghan  principal accounting officer   by    s  jonathan e,Governance,0.6524946689605713
+2448, osgood attorney in fact       f    ,Governance,0.5041756629943848
+2449, we also have audited the company s internal control over financial reporting as of december     based on criteria established in internal control   integrated framework    issued by the committee of sponsoring organizations of the treadway commission  coso ,Governance,0.8340272903442383
+2451, also in our opinion  the company maintained  in all material respects  effective internal control over financial reporting as of december     based on criteria established in internal control   integrated framework    issued by the coso,Governance,0.5730862021446228
+2454, our responsibility is to express opinions on the company s consolidated financial statements and on the company s internal control over financial reporting based on our audits,Governance,0.7563983798027039
+2477, professionals with specialized skill and knowledge were used to assist in performing the procedures described in  i  through  v ,Social,0.9793100357055664
+2487,  s  pricewaterhousecoopers llp detroit  michigan february    we have served as the company s auditor since ,Governance,0.8486946821212769
+2670, billion in     and   respectively  associated with these incentives,Social,0.705780565738678
+2676,  summary of significant accounting policies  continued  government incentives we receive incentives from u,Social,0.4988598525524139
+2683, during   we were awarded incentives by the state of tennessee related to land  capital  and property tax abatements in connection with ford s capital investment in our new electric vehicle assembly plant and job commitments,Social,0.8863072991371155
+2687, in   we were also awarded incentives by the canadian government and province of ontario in connection with the development of electric vehicles at our oakville assembly plant,Social,0.6005855798721313
+2828,  vested  a   ,Social,0.6003958582878113
+2961, government              u,Social,0.5282726883888245
+2962, government agencies      non u,Social,0.6082310080528259
+2964, government              u,Social,0.5282726883888245
+2965, government agencies        non u,Social,0.6082310080528259
+2967, government               u,Social,0.5282726883888245
+2968, government agencies        non u,Social,0.6082310080528259
+2970, government              u,Social,0.5282726883888245
+2971, government agencies        non u,Social,0.6082310080528259
+2980, government                            u,Social,0.5282726883888245
+2981, government agencies              non u,Social,0.6082310080528259
+2983, government                             u,Social,0.5282726883888245
+2984, government agencies                non u,Social,0.6082310080528259
+2987, government                          u,Social,0.5282726883888245
+2988, government agencies               non u,Social,0.6082310080528259
+2990, government                          u,Social,0.5282726883888245
+2991, government agencies               non u,Social,0.6082310080528259
+3189, in the near term  we see more potential for partial or conditional automated driving technology  l l  to be transformative for customers and our business,Social,0.8887952566146851
+3234,  we have defined benefit pension plans covering hourly and salaried employees in the united states  canada  united kingdom  germany  and other locations,Social,0.5901183485984802
+3237, virtually all of our worldwide defined benefit plans are closed to new participants,Social,0.6443873643875122
+3243,  we have defined benefit opeb plans  primarily certain health care and life insurance benefits  covering hourly and salaried employees in the united states  canada  and other locations,Social,0.8012276291847229
+3248, we also have defined contribution and savings plans for hourly and salaried employees in the united states and other locations,Social,0.9676299095153807
+3254, plans non u,Social,0.4763389527797699
+3290, plans non u,Social,0.4763389527797699
+3301, plans non u,Social,0.4763389527797699
+3314, plansnon u,Social,0.6791804432868958
+3320, our largest non u,Social,0.5285879373550415
+3325, plans and the largest non u,Social,0.6602603197097778
+3347,  policies and practices to address operating risks include ongoing manager oversight  e,Governance,0.9196103811264038
+3348,  style adherence  team strength  firm health  and internal risk controls   plan and asset class investment guidelines and instructions that are communicated to managers  and periodic compliance reviews to ensure adherence,Governance,0.9547613859176636
+3365, plans non u,Social,0.4763389527797699
+3369, government and agencies                   non u,Social,0.6079879403114319
+3387, plans non u,Social,0.4763389527797699
+3393, government and agencies                   non u,Social,0.6079879403114319
+3407, plans                      non u,Social,0.4763389527797699
+3411, plans                       non u,Social,0.4763389527797699
+3522, environmental  social  governance   esg   bonds in november  and august   we issued  ,Environmental,0.9665195941925048
+3523, billion and approximately  ,Social,0.5500321388244629
+3553, billion to finance certain costs for fuel efficient  advanced technology vehicles,Environmental,0.9807146191596984
+3559, exporters,Social,0.6639097332954407
+3583, the corporate  supplemental  and  day credit agreements include certain sustainability linked targets  pursuant to which the applicable margin and facility fees may be adjusted if ford achieves  or fails to achieve  the specified targets related to global manufacturing facility greenhouse gas emissions  renewable electricity consumption  and ford europe co tailpipe emissions,Environmental,0.9609636068344116
+3716,   electriphi  ,Social,0.4250301420688629
+3717, on june     we acquired electriphi  a california based provider of charging management and fleet monitoring software for electric vehicles,Environmental,0.543081521987915
+3860, these include expenses related to setting and directing global policy  providing oversight and stewardship  and promoting the company s interests,Social,0.897776186466217
