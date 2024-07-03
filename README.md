@@ -1,3 +1,8 @@
+# A sentiment analysis related to ESG matters based on 10K reports
+## Financial Econometric Project
+
+In the following you can find the detailed description of the files in the repository.
+
 Report.pdf: 
 - detailed report of what we did in our project.
 
